@@ -1,0 +1,9 @@
+{
+  "name": "tension-pool",
+  "title": "Tension Pool",
+  "description": "A FoundryVTT module to implement the Angry GM's Tension Pool mechanic",
+  "author": "LarryBiscuit",
+  "version": "0.1",
+  "minimumCoreVersion": "0.5.0",
+  "url": "https://github.com/abonnell/tensionpool-foundryvtt"
+}
